@@ -1,0 +1,16 @@
+body {
+    margin: none;
+}
+
+p {
+    width: 90%;
+    height: 1.25em;
+    position: absolute;
+    left: 5%;
+    text-align: center;
+    font-size: 8em;
+    background: linear-gradient(to bottom, lightblue, pink, white, pink, lightblue);
+    border: 1px dashed black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    overflow: hidden;;
+}
